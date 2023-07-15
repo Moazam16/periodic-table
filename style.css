@@ -1,0 +1,68 @@
+header {
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', ;
+
+
+}
+
+td {
+
+    empty-cells: hide;
+    font-weight: bold;
+    font-size: 21px;
+
+}
+
+p {
+    font-size: 11px;
+}
+
+.one {
+    background-color: rgb(247, 247, 185);
+    border: 1px solid rgb(240, 233, 147);
+}
+
+.two {
+    background-color: rgb(232, 150, 113);
+    border: 1px solid rgb(220, 113, 113);
+}
+
+.three {
+    background-color: rgb(247, 198, 206);
+    border: 1px solid rgb(245, 159, 188);
+}
+
+.four {
+    background-color: rgb(199, 233, 246);
+    border: 1px solid rgb(154, 212, 234);
+}
+
+.five {
+    background-color: rgb(231, 247, 206);
+    border: 1px solid rgb(190, 238, 190);
+}
+
+.six {
+    background-color: rgb(226, 205, 237);
+    border: 1px solid rgb(195, 173, 243);
+}
+
+.seven {
+    background-color: rgb(203, 204, 234);
+    border: 1px solid rgb(106, 106, 193);
+}
+
+.eight {
+    background-color: rgb(253, 224, 187);
+    border: 1px solid rgb(247, 208, 162);
+}
+
+.nine {
+    background-color: rgb(241, 160, 174);
+    border: 1px solid rgb(241, 125, 164);
+}
+
+.ten {
+    background-color: rgb(71, 241, 241);
+    border: 1px solid aqua;
+}
